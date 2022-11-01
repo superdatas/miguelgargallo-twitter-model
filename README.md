@@ -1,6 +1,6 @@
 ---
 language: en
-thumbnail: https://github.com/borisdayma/huggingtweets/blob/master/img/logo.png?raw=true
+thumbnail: ![image](https://user-images.githubusercontent.com/5947268/199326827-f4dd12f6-2424-47e5-8706-95290a53d0dc.png)
 tags:
 - huggingtweets
 widget:
