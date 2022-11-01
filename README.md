@@ -78,8 +78,8 @@ In addition, the data present in the user's tweets further affects the text gene
 
 *Built by Boris Dayma*
 
-[![Follow](https://img.shields.io/twitter/follow/borisdayma?style=social)](https://twitter.com/intent/follow?screen_name=borisdayma)
+[![Follow](https://img.shields.io/twitter/follow/miguelgargallo?style=social)](https://twitter.com/intent/follow?screen_name=miguelgargallo)
 
 For more details, visit the project repository.
 
-[![GitHub stars](https://img.shields.io/github/stars/borisdayma/huggingtweets?style=social)](https://github.com/borisdayma/huggingtweets)
+[![GitHub stars](https://img.shields.io/github/stars/superdatas/miguelgargallo-twitter-model?style=social)](https://github.com/superdatas/miguelgargallo-twitter-model)
